@@ -8,6 +8,7 @@ C, C#, and Angular
 API development
 CI/CD pipelines with Ansible and Jenkins
 Docker for containerization
+
 🚀 Interests:
 
 Back-end development
