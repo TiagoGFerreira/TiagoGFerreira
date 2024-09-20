@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi there! I'm Tiago Ferreira
 
-<!--
-**TiagoGFerreira/TiagoGFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a degree in Computer Engineering at the Polytechnic Institute of Cávado and Ave. My main focus is on back-end development, but I'm always exploring new technologies and expanding my skill set in software development.
 
-Here are some ideas to get you started:
+🔧 Technologies I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C, C#, and Angular
+API development
+CI/CD pipelines with Ansible and Jenkins
+Docker for containerization
+🚀 Interests:
+
+Back-end development
+APIs & Microservices
+Process automation
+I'm always looking for opportunities to contribute to exciting projects and collaborate with other developers. Check out my repositories to see what I’m working on!
+
