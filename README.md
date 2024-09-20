@@ -6,8 +6,7 @@ I'm currently pursuing a degree in Computer Engineering at the Polytechnic Insti
 
 C, C#, and Angular
 API development
-CI/CD pipelines with Ansible and Jenkins
-Docker for containerization
+CI/CD pipelines with Ansible and Jenkins for automation, and Docker for containerization
 
 🚀 Interests:
 
