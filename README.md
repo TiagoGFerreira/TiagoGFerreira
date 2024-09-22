@@ -15,3 +15,10 @@ APIs & Microservices
 Process automation
 I'm always looking for opportunities to contribute to exciting projects and collaborate with other developers. Check out my repositories to see what I’m working on!
 
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagogonferreira)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagogoncalvesferreiraster@gmail.com)
+
+
